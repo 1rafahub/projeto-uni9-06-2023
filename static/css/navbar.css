@@ -1,0 +1,38 @@
+.jss5
+{
+    top:0;
+    left:0;
+    width: 100vw;  
+    margin: 0 auto;
+    display: block;
+    position: fixed;
+    align-items: center;
+    border-bottom: 1px solid #d8d8d8;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ffffff;
+ 
+}
+
+.img-logo {
+    height: 100px;
+    width: 250px;
+    object-fit: contain;   
+}
+
+
+.navbar-nav li{
+margin-right: 20px;
+}
+.nav-route p{
+    color: #FFA500;
+
+}
+
+.nav-route a:hover{
+    color:#FFA500;
+    text-decoration: underline solid;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 5px;
+}
+
